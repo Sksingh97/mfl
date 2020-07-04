@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "260259221765",
+    "firebase_url": "https://mfl-app-97f98.firebaseio.com",
+    "project_id": "mfl-app-97f98",
+    "storage_bucket": "mfl-app-97f98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260259221765:android:fc207f1f07b3771750e76c",
+        "android_client_info": {
+          "package_name": "com.mfl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260259221765-va0hdsh9egfbou7kpgtijquqbiv5u9fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT615OnrYjkYV6B-RgRFdY9MvJSsriVSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260259221765-va0hdsh9egfbou7kpgtijquqbiv5u9fs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

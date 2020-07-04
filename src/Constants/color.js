@@ -1,0 +1,25 @@
+export const color = {
+    Dark:{
+        TEXT_COLOR:"#fff",
+        TOGGLE_LABLE:"#456",
+        HEADER_BACKGROUND:"#242A55",
+        HEADER_TEXT:"#fff",
+        STATUS_BAR:"#242A55",
+        SCREEN_BACKGROUND:"#242A55",
+        STATUS_BAR_CONTENT:'light-content',
+        WHITE:"#fff",
+        SIGN_IN_BG:"#7486B8",
+        BLUE_TEXT:"#0065D4"
+    },
+    Light:{
+        TEXT_COLOR:"#000",
+        TOGGLE_LABLE:"#654",
+        HEADER_BACKGROUND:"#242A55",
+        HEADER_TEXT:"#000",
+        STATUS_BAR:"#242A55",
+        SCREEN_BACKGROUND:"#fff",
+        STATUS_BAR_CONTENT:'light-content',
+        SIGN_IN_BG:"#D8DDE3",
+        BLUE_TEXT:"#0065D4"
+    }
+}
